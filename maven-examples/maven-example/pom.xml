@@ -18,7 +18,7 @@
     <repositories>
         <repository>
             <id>artifactory</id>
-            <url>http://35.199.180.82:8081/test-libs-release</url>
+            <url>http://35.199.180.82:8082/ui/repos/tree/General/test-libs-release</url>
         </repository>
     </repositories>
 
