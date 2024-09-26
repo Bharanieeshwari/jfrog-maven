@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>artifactory-release</id>
-            <url>http://35.199.180.82:8082/artifactory/test-libs-release/</url>
+            <url>http://localhost:8082/artifactory/jen-int-libs-release/</url>
         </repository>
     </repositories>
 
