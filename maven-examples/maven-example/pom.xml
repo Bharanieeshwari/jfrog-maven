@@ -23,10 +23,6 @@
 
     <repositories>
         <repository>
-            <id>central</id>
-            <url>https://repo.maven.apache.org/maven2</url>
-        </repository>
-        <repository>
             <id>artifactory-release</id>
             <url>http://localhost:8082/artifactory/jen-int-libs-release/</url>
         </repository>
@@ -94,11 +90,6 @@
                         <addMavenDescriptor>false</addMavenDescriptor>
                     </archive>
                 </configuration>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-clean-plugin</artifactId>
-                <version>3.2.0</version>
             </plugin>
         </plugins>
     </build>
