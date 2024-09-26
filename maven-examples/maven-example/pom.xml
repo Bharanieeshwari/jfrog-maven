@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>artifactory-release</id>
-            <url>http://localhost:8082/artifactory/jen-int-libs-release/</url>
+            <url>http://support-team-bharaneeshwarig-jenkins.jfrog.farm:8082/artifactory/jen-int-libs-release/</url>
         </repository>
     </repositories>
 
